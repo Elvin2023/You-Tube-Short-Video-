@@ -290,7 +290,7 @@ body {
     }
     
     .cv-header {
-        background: #667eea;
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
         color: white;
         -webkit-print-color-adjust: exact;
         print-color-adjust: exact;
